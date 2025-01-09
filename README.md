@@ -1,1 +1,1 @@
-# Event-Management-DBMS-and-Python-based-
+# Event-Management( DBMS-and-Python-based)
